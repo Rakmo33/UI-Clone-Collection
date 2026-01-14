@@ -40,7 +40,7 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 
 
 **Demo GIF:**  
-![Feed Interaction](./assets/feed.gif)
+![Feed Interaction](./assets/Feed.gif)
 
 ---
 
