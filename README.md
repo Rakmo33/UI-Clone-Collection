@@ -14,7 +14,7 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 - Fully animated transitions
 
 ****  
-[Demo Link 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-8/index.html
+[Demo Link 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-8/index.html
 )  
 **Demo GIF:**  
 ![Status Interaction](./assets/Status.gif)
@@ -28,14 +28,14 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 
 ****  
 **Demo Links:**  
-- [Demo Link 1 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-1/linkedin.html)
-- [Demo Link 2 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-3/index.html
+- [Demo Link 1 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-1/linkedin.html)
+- [Demo Link 2 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-3/index.html
 )
-- [Demo Link 3 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-9/index.html
+- [Demo Link 3 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-9/index.html
 )
-- [Demo Link 4 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-11/index.html
+- [Demo Link 4 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-11/index.html
 )
-- [Demo Link 5 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-12/index.html
+- [Demo Link 5 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-12/index.html
 )
 
 
@@ -50,7 +50,7 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 - Smooth transitions and responsive layout
 
 ****  
-[Demo Link 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-10/index.html
+[Demo Link 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-10/index.html
 )  
 **Demo GIF:**  
 ![Notifications Interaction](./assets/Notifications.gif)
@@ -63,7 +63,7 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 - Fully handcrafted responsive styling
 
 ****  
-[Demo Link 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-7/index.html
+[Demo Link 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-7/index.html
 )  
 **Demo GIF:**  
 ![Profile Interaction](./assets/profile.gif)
@@ -77,9 +77,9 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 - Smooth responsive animations
 
 **Demo Links:**  
-- [Demo Link 1 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-5/index.html
+- [Demo Link 1 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-5/index.html
 )
-- [Demo Link 2 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-6/index.html)
+- [Demo Link 2 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-6/index.html)
 
 **Demo GIF:**  
 ![Telegram Interaction](./assets/messaging.gif)
@@ -91,7 +91,7 @@ All **HTML, CSS, and JavaScript** is written from scratch — no frameworks or l
 - Chat sidebar, conversation pane, and interactive elements  
 
 ****  
-[Demo Link 🔗](https://rakmo33.github.io/YaarMe-Internship-Tasks/Task-4/index.html
+[Demo Link 🔗](https://rakmo33.github.io/UI-Clone-Collection/Task-4/index.html
 )  
 **Demo GIF:**  
 ![Whatsapp Web Interaction](./assets/chat_desktop.gif)
